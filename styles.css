@@ -43,7 +43,7 @@ nav ul li {
 
 nav ul li a {
     color: #fff;
-    text-decoration: none;
+    text-decoration: underline;
 }
 
 /* Style the sections */
