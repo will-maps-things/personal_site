@@ -1,2 +1,4 @@
 # personal_site
-this is the code for my personal website, nothing fancy
+someday you'll see my personal website here, but that day is not today. stay tuned.
+
+xoxo Will
