@@ -51,6 +51,9 @@ section {
     padding: 20px;
     margin: 20px 0;
     background-color: #fff;
+}
+
+section p {
     text-align: center;
 }
 
