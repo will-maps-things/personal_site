@@ -8,10 +8,10 @@ css
     box-sizing: border-box;
 }
 
-/* Apply a background color to the body */
+/* Apply a background photo to the body */
 body {
     font-family: 'Courier New', Courier, monospace;
-    background-color: #f4f4f4;
+    background-image: url('photo/Headshot_Houses2.jpg');
     color: #333;
     line-height: 1.6;
     margin: 0;
