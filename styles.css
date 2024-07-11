@@ -12,6 +12,7 @@ css
 body {
     font-family: 'Courier New', Courier, monospace;
     background-image: url('photo/WV_Background.png');
+    background-size: cover;
     color: #333;
     line-height: 1.6;
     margin: 0;
